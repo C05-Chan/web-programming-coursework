@@ -201,7 +201,7 @@ I wanted to include a feature where the window would automatically reload every 
 ```if i had an array, how to make it for every item in the array, create two buttons next to it?```
 ```how to check if the text input is in a 00:00:00:000 format in js and explain```
 ```how to add a header cell js to a table```
-```..[code].. explain``
+```..[code].. explain```
 ```how to check if the server is reachable adn online with js?```
 ```how to check if there is internet connection with js?```
 ```how to check if the server is reachable and online with js?```
